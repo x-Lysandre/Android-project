@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "219636922449",
+    "project_id": "evopt-8bae8",
+    "storage_bucket": "evopt-8bae8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219636922449:android:e4685cf424950b4e83e070",
+        "android_client_info": {
+          "package_name": "com.example.evopt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1a_ZQ0YYi5HJFl1ZYGD76nFy4pvmvwxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
